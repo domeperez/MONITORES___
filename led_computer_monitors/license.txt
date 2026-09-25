@@ -1,0 +1,11 @@
+Model Information:
+* title:	LED Computer Monitors
+* source:	https://sketchfab.com/3d-models/led-computer-monitors-e82704d2ea084a7ca82858cf5b04cafa
+* author:	arieffitrah (https://sketchfab.com/arieffitrah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LED Computer Monitors" (https://sketchfab.com/3d-models/led-computer-monitors-e82704d2ea084a7ca82858cf5b04cafa) by arieffitrah (https://sketchfab.com/arieffitrah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

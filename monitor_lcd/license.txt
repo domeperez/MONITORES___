@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monitor LCD
+* source:	https://sketchfab.com/3d-models/monitor-lcd-60e8241011784f4ba68abdecc2240b7f
+* author:	Aroy (https://sketchfab.com/Aroy-Art)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monitor LCD" (https://sketchfab.com/3d-models/monitor-lcd-60e8241011784f4ba68abdecc2240b7f) by Aroy (https://sketchfab.com/Aroy-Art) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
