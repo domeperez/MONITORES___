@@ -1,0 +1,11 @@
+Model Information:
+* title:	Split Key PC keyboard mk2
+* source:	https://sketchfab.com/3d-models/split-key-pc-keyboard-mk2-69dc558cbea24e9e8b9d20bf14c85fc1
+* author:	bifrost1107 (https://sketchfab.com/bifrost1107)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Split Key PC keyboard mk2" (https://sketchfab.com/3d-models/split-key-pc-keyboard-mk2-69dc558cbea24e9e8b9d20bf14c85fc1) by bifrost1107 (https://sketchfab.com/bifrost1107) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
