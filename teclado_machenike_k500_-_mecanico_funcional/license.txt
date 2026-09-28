@@ -1,0 +1,11 @@
+Model Information:
+* title:	Teclado Machenike K500 - Mecânico Funcional
+* source:	https://sketchfab.com/3d-models/teclado-machenike-k500-mecanico-funcional-8dc520c975b742f8bbb863fb38e37e78
+* author:	M4theus (https://sketchfab.com/M4theus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Teclado Machenike K500 - Mecânico Funcional" (https://sketchfab.com/3d-models/teclado-machenike-k500-mecanico-funcional-8dc520c975b742f8bbb863fb38e37e78) by M4theus (https://sketchfab.com/M4theus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
